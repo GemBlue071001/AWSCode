@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsApi", "AwsApi\AwsApi.csproj", "{98CCFE89-3508-4948-8D39-C7768E2BD8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98CCFE89-3508-4948-8D39-C7768E2BD8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CCFE89-3508-4948-8D39-C7768E2BD8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CCFE89-3508-4948-8D39-C7768E2BD8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CCFE89-3508-4948-8D39-C7768E2BD8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75044564-7F87-49BD-958D-175AD7254E34}
+	EndGlobalSection
+EndGlobal
